@@ -1,2 +1,2 @@
 // eslint-disable-next-line import/prefer-default-export
-export { default as material } from 'material-ui';
+export * from 'material-ui';
